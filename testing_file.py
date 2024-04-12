@@ -36,6 +36,255 @@ def get_mental_health_support(user_input):
         return (
             "Try taking short breaks, prioritizing tasks, and setting clear boundaries between work and personal life."
         )
+    if "" in user_input.lower():
+        return (
+
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+        
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
+    if "" in user_input.lower():
+        return (
+            
+        )
     
     return "I'm here to help with mental health support. Can you please tell me more about what you're experiencing?"
 
